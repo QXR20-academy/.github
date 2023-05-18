@@ -1,13 +1,13 @@
 <!--
-  <<< Author notes: Header of the course >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
+  <<< Notas del autor: Cabecera del academia >>>
+   Incluya una imagen de 1280 × 640, el título del curso en mayúsculas y una descripción concisa en énfasis.
+   En la configuración de su repositorio: habilite el repositorio de plantillas, agregue su imagen social de 1280 × 640, elimine automáticamente las ramas principales.
+   Agregue su licencia de código abierto, GitHub usa Creative Commons Attribution 4.0 International.
 -->
 
-# Introduction to GitHub
+# Welcolme al repositorio Github de QXR20.academy
 
-_Get started using GitHub in less than an hour._
+_Comience a usar GitHub en menos de una hora._
 
 <!--
   <<< Author notes: Start of the course >>>
@@ -19,7 +19,7 @@ _Get started using GitHub in less than an hour._
 -->
 
 <details id=0>
-<summary><h2>Welcome</h2></summary>
+<summary><h2>QXR20.academy</h2></summary>
 
 People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” course guides you through everything you need to start contributing in less than an hour.
 
@@ -66,7 +66,7 @@ People use GitHub to build some of the most advanced technologies in the world. 
 -->
 
 <details id=1 open>
-<summary><h2>Step 1: Create a branch</h2></summary>
+<summary><h2>Storytelling</h2></summary>
 
 _Welcome to "Introduction to GitHub"! :wave:_
 
@@ -115,7 +115,7 @@ Branches allow you to separate your work from the `main` branch. In other words,
 -->
 
 <details id=2>
-<summary><h2>Step 2: Commit a file</h2></summary>
+<summary><h2>Audiovisual</h2></summary>
 
 _You created a branch! :tada:_
 
@@ -168,7 +168,7 @@ The following steps will guide you through the process of committing a change on
 -->
 
 <details id=3>
-<summary><h2>Step 3: Open a pull request</h2></summary>
+<summary><h2>Extended Reality</h2></summary>
 
 _Nice work making that commit! :sparkles:_
 
@@ -214,7 +214,7 @@ To create a pull request automatically, click **Compare & pull request**, and th
 -->
 
 <details id=4>
-<summary><h2>Step 4: Merge your pull request</h2></summary>
+<summary><h2>Internet of things</h2></summary>
 
 _Nicely done! :sunglasses:_
 
@@ -246,7 +246,7 @@ As noted in the previous step, you may have seen evidence of GitHub Actions runn
 -->
 
 <details id=X>
-<summary><h2>Finish</h2></summary>
+<summary><h2>PublicAudiovisual XR</h2></summary>
 
 _Congratulations, you've completed this course and joined the world of developers!_
 
@@ -286,4 +286,4 @@ Check out these resources to learn more or get involved:
 
 Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
-&copy; 2022 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
