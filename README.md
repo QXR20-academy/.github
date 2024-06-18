@@ -38,9 +38,9 @@ Capacítate de una madurez SherpaEduTech Consultant para resolver los problemas 
  <img height="75" src="https://publicaudiovisual.com/moodle/pluginfile.php/67/course/overviewfiles/UX0.jpg" alt=""/>
  <img height="75" src="https://publicaudiovisual.com/moodle/pluginfile.php/14/course/overviewfiles/st.UX0%20PropulsaTechs24.png" alt=""/>
  <img height="75" src="https://publicaudiovisual.com/moodle/pluginfile.php/20/course/overviewfiles/User%20experience%20XR%20Observador.jpg" alt=""/><br>
- <img width="1000" src="https://publicaudiovisual.com/moodle/pluginfile.php/112/course/overviewfiles/Transformacion%20Digital%20Observador.jpg" alt=""/>
- <img width="1000" src="https://publicaudiovisual.com/moodle/pluginfile.php/22/course/overviewfiles/ST0%20Disrupci%C3%B3n%20y%20sus%20efectos23.jpg" alt=""/>
- <img width="1000" src="" alt="https://publicaudiovisual.com/moodle/pluginfile.php/24/course/overviewfiles/ST1%20EmpoderaTech%E2%80%99s%2023.jpg"/>
+ <img height="75" src="https://publicaudiovisual.com/moodle/pluginfile.php/112/course/overviewfiles/Transformacion%20Digital%20Observador.jpg" alt=""/>
+ <img height="75" src="https://publicaudiovisual.com/moodle/pluginfile.php/22/course/overviewfiles/ST0%20Disrupci%C3%B3n%20y%20sus%20efectos23.jpg" alt=""/>
+ <img height="75" src="" alt="https://publicaudiovisual.com/moodle/pluginfile.php/24/course/overviewfiles/ST1%20EmpoderaTech%E2%80%99s%2023.jpg"/>
 </p>
 
 **What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
