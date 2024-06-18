@@ -15,15 +15,15 @@ Los 4 Pilares de QXR20.academy by PublicAudiovisual XR
 Capacítate de una madurez SherpaEduTech Consultant para resolver los problemas más desafiantes del mundo tecnológico. A continuación tienes los cuatro pilares de mi metodología.
 
 
-- **Storytelling**: New developers, new GitHub users, and students.
-- **Audiovisuales**: We'll introduce repositories, branches, commits, and pull requests.
-- **XR (Realidad Extendida)**: We'll make a short Markdown file you can use as your [QXR20.academy](https://publicaudiovisual.com/Int/Educaci%C3%B3n.html).
-- **IoT (Internet de las Cosas)**: None. This course is a great introduction for your first day on GitHub.
+- **Storytelling**: Nuevas narrativas binarias.
+- **Audiovisuales**: La parte del FrontEnd.
+- **XR (Realidad Extendida)**: Experiencias de usuario conscientes. 
+- **IoT (Internet de las Cosas)**: Hiperconectividad de las cosas.
 
 
 **¡¡ Adéntrate en la madriguera!!**
 
-* Glossary terms will be _emphasised_ and linked to their definition.
+* [_QXR20.academy_](https://publicaudiovisual.com/Int/Educaci%C3%B3n.html).
 
 ## How to start this course
 
