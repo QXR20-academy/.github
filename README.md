@@ -1,13 +1,11 @@
-<!--
-  <<< Notas del autor: Cabecera del academia >>>
-   Incluya una imagen de 1280 × 640, el título del curso en mayúsculas y una descripción concisa en énfasis.
-   En la configuración de su repositorio: habilite el repositorio de plantillas, agregue su imagen social de 1280 × 640, elimine automáticamente las ramas principales.
-   Agregue su licencia de código abierto, GitHub usa Creative Commons Attribution 4.0 International.
--->
+<p align="center">
+ <img src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Logo/QXRCAI%20white.png"/><br><br>
+ <img src="https://komarev.com/ghpvc/?username=qxr20-academy&style=for-the-badge&color=blueviolet" alt=""/>
+</P>
 
-# Welcolme al repositorio Github de QXR20.academy
+# Welcome to QXR20.academy
 
-_Comience a usar GitHub en menos de una hora._
+_Conviertete en AlquimisTech's con este repositorio._
 
 <!--
   <<< Author notes: Start of the course >>>
