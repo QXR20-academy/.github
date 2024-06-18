@@ -9,7 +9,7 @@ _Conviertete en AlquimisTech's con este repositorio._
 
 Los 4 Pilares de QXR20.academy by PublicAudiovisual XR
 
-<details id=0>
+<details id=0 open>
 <summary><h2>QXR20.academy</h2></summary>
 
 Capacítate de una madurez SherpaEduTech Consultant para resolver los problemas más desafiantes del mundo tecnológico. A continuación tienes los cuatro pilares de mi metodología.
@@ -29,18 +29,19 @@ Capacítate de una madurez SherpaEduTech Consultant para resolver los problemas 
 
 </details>
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
 
-<details id=1 open>
+
+<details id=1>
 <summary><h2>Storytelling</h2></summary>
 
-_Welcome to "Introduction to GitHub"! :wave:_
+<p align="center">
+ <img width="1000" src="https://publicaudiovisual.com/moodle/pluginfile.php/67/course/overviewfiles/UX0.jpg" alt=""/>
+ <img width="1000" src="https://publicaudiovisual.com/moodle/pluginfile.php/14/course/overviewfiles/st.UX0%20PropulsaTechs24.png" alt=""/>
+ <img width="1000" src="https://publicaudiovisual.com/moodle/pluginfile.php/20/course/overviewfiles/User%20experience%20XR%20Observador.jpg" alt=""/><br>
+ <img width="1000" src="https://publicaudiovisual.com/moodle/pluginfile.php/112/course/overviewfiles/Transformacion%20Digital%20Observador.jpg" alt=""/>
+ <img width="1000" src="https://publicaudiovisual.com/moodle/pluginfile.php/22/course/overviewfiles/ST0%20Disrupci%C3%B3n%20y%20sus%20efectos23.jpg" alt=""/>
+ <img width="1000" src="" alt="https://publicaudiovisual.com/moodle/pluginfile.php/24/course/overviewfiles/ST1%20EmpoderaTech%E2%80%99s%2023.jpg"/>
+</p>
 
 **What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
 <br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
