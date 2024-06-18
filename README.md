@@ -45,19 +45,10 @@ Capacítate de una madurez SherpaEduTech Consultant para resolver los problemas 
 
 </details>
 
-<details id=2 open>
+<details id=2>
 <summary><h2>Audiovisual</h2></summary>
 
 _In Devolop
-
-<p align="center">
- <img height="75" src="" alt=""/>
- <img height="75" src="" alt=""/>
- <img height="75" src="" alt=""/><br>
- <img height="75" src="" alt=""/>
- <img height="75" src="" alt=""/>
- <img height="75" src="" alt=""/>
-</p>
 
 </details>
 
@@ -68,7 +59,7 @@ _In Devolop
 
 </details>
 
-<details id=4 open>
+<details id=4>
 <summary><h2>Internet of things</h2></summary>
 
 _In Devolop
