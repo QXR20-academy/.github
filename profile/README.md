@@ -29,8 +29,6 @@ Capacítate de una madurez SherpaEduTech Consultant para resolver los problemas 
 
 </details>
 
-
-
 <details id=1>
 <summary><h2>Storytelling</h2></summary>
 
@@ -42,6 +40,14 @@ Capacítate de una madurez SherpaEduTech Consultant para resolver los problemas 
  <img height="75" src="https://publicaudiovisual.com/moodle/pluginfile.php/22/course/overviewfiles/ST0%20Disrupci%C3%B3n%20y%20sus%20efectos23.jpg" alt=""/>
  <img height="75" src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Education/Cursos/st.1%20Empoderatech's.png" alt=""/>
 </p>
+
+## Repositorios
+
+* [_Storytelling_](https://github.com/QXR20-academy/Storytelling).
+* [_CodigoDeConducta_](https://github.com/QXR20-academy/CodigoDeConducta).
+* [_github_](https://github.com/QXR20-academy/.github).
+* [_Introduction to GitHub_](https://github.com/QXR20-academy/skills-introduction-to-github).
+* [_Microsoft_](https://github.com/QXR20-academy/Microsoft).
 
 </details>
 
