@@ -7,27 +7,21 @@
 
 _Conviertete en AlquimisTech's con este repositorio._
 
-<!--
-  <<< Author notes: Start of the course >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
-  Each step should be wrapped in <details>/<summary>, with an `id` set.
-  The start <details> should have `open` as well.
-  Do not use quotes on the <details> tag attributes.
--->
+Los 4 Pilares de QXR20.academy by PublicAudiovisual XR
 
 <details id=0>
 <summary><h2>QXR20.academy</h2></summary>
 
-People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” course guides you through everything you need to start contributing in less than an hour.
+Capacítate de una madurez SherpaEduTech Consultant para resolver los problemas más desafiantes del mundo tecnológico. A continuación tienes los cuatro pilares de mi metodología.
 
-- **Who is this for**: New developers, new GitHub users, and students.
-- **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
-- **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
-- **Prerequisites**: None. This course is a great introduction for your first day on GitHub.
-- **How long**: This course is four steps long and takes less than one hour to complete.
 
-**Course tips:**
+- **Storytelling**: New developers, new GitHub users, and students.
+- **Audiovisuales**: We'll introduce repositories, branches, commits, and pull requests.
+- **XR (Realidad Extendida)**: We'll make a short Markdown file you can use as your [QXR20.academy](https://publicaudiovisual.com/Int/Educaci%C3%B3n.html).
+- **IoT (Internet de las Cosas)**: None. This course is a great introduction for your first day on GitHub.
+
+
+**¡¡ Adéntrate en la madriguera!!**
 
 * Glossary terms will be _emphasised_ and linked to their definition.
 
